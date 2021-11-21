@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+h1 {
+  text-align: center;
+}
+.list li {
+  color: blue;
+}
+.image {
+  display: inline-block;
+}
+.selbe_klasse {
+  color: rgb(247, 163, 7);
+  font-size: 2em;
+  font-family: Arial, Helvetica, sans-serif;
+  text-transform: uppercase;
+}
+
+footer a:visited {
+  color: green;
+}
+
+footer a:hover {
+  color: red;
+}
+
+/*Box Model Section*/
+
+.box-model {
+  padding: 5px;
+  margin: 10%;
+}
+
+/* Link - Images Section   */
+
+.lieblingsbook {
+  width: 200px;
+  height: 200px;
+}
